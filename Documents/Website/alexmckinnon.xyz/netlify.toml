@@ -3,4 +3,4 @@
   command = "./install-quarto.sh && quarto render"
 
 [build.environment]
-  PATH = "/usr/local/bin:$PATH"
+  PATH = "/opt/buildhome/.local/bin:$PATH"
