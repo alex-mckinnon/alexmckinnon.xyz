@@ -13,7 +13,6 @@ website:
         href: Blog/Introductory Post.qmd
         
       
-
 format:
   html:
     theme: cosmo

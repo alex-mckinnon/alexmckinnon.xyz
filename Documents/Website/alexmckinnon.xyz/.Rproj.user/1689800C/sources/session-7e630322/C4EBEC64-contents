@@ -1,0 +1,7 @@
+---
+title: "netlify.toml"
+---
+
+\[build\] \
+publish = "\_site" \
+command = "./install-quarto.sh && quarto render"
